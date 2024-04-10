@@ -58,3 +58,7 @@ CREATE TABLE Permisos (
 
 
 DROP TABLE Estudiantes;
+DROP TABLE Docentes;
+DROP TABLE Administradores;
+DROP TABLE Asistencias;
+DROP TABLE Permisos;
