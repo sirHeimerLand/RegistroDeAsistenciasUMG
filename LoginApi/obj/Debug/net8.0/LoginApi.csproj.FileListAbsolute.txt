@@ -1,0 +1,333 @@
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\LoginApi.exe
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\LoginApi.deps.json
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\LoginApi.runtimeconfig.json
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\LoginApi.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\LoginApi.pdb
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.csproj.AssemblyReference.cache
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.AssemblyInfoInputs.cache
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.AssemblyInfo.cs
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.csproj.CoreCompileInputs.cache
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.LoginApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApi.props
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApi.props
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApi.props
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\scopedcss\bundle\LoginApi.styles.css
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.csproj.Up2Date
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.dll
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\refint\LoginApi.dll
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.pdb
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\LoginApi.genruntimeconfig.cache
+C:\Users\Dr_RonnieLH\LoginApi\obj\Debug\net8.0\ref\LoginApi.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\appsettings.Development.json
+C:\proyecto\loginapi\bin\Debug\net8.0\appsettings.json
+C:\proyecto\loginapi\bin\Debug\net8.0\package-lock.json
+C:\proyecto\loginapi\bin\Debug\net8.0\LoginApi.exe
+C:\proyecto\loginapi\bin\Debug\net8.0\LoginApi.deps.json
+C:\proyecto\loginapi\bin\Debug\net8.0\LoginApi.runtimeconfig.json
+C:\proyecto\loginapi\bin\Debug\net8.0\LoginApi.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\LoginApi.pdb
+C:\proyecto\loginapi\bin\Debug\net8.0\Humanizer.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\MySqlConnector.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.CodeDom.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.csproj.AssemblyReference.cache
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.AssemblyInfoInputs.cache
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.AssemblyInfo.cs
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.csproj.CoreCompileInputs.cache
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.LoginApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApi.props
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApi.props
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApi.props
+C:\proyecto\loginapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\proyecto\loginapi\obj\Debug\net8.0\scopedcss\bundle\LoginApi.styles.css
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.csproj.Up2Date
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.dll
+C:\proyecto\loginapi\obj\Debug\net8.0\refint\LoginApi.dll
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.pdb
+C:\proyecto\loginapi\obj\Debug\net8.0\LoginApi.genruntimeconfig.cache
+C:\proyecto\loginapi\obj\Debug\net8.0\ref\LoginApi.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\proyecto\loginapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\appsettings.Development.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\appsettings.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\package-lock.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\LoginApi.exe
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\LoginApi.deps.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\LoginApi.runtimeconfig.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\LoginApi.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\LoginApi.pdb
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Humanizer.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\MySqlConnector.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.csproj.AssemblyReference.cache
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.AssemblyInfoInputs.cache
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.AssemblyInfo.cs
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.csproj.CoreCompileInputs.cache
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.LoginApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginApi.props
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginApi.props
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginApi.props
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\scopedcss\bundle\LoginApi.styles.css
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.csproj.Up2Date
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\refint\LoginApi.dll
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.pdb
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\LoginApi.genruntimeconfig.cache
+D:\downloads\proyecto sin nodes\proyecto\LoginApi\obj\Debug\net8.0\ref\LoginApi.dll
