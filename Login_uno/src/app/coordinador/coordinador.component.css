@@ -1,0 +1,66 @@
+/* Estilos generales */
+:host {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: black;
+  padding: 20px;
+  min-height: 100vh;
+  color: white;
+}
+
+/* Estilo para el contenido */
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Estilo para el lado izquierdo */
+.left-side {
+  flex: 1;
+  padding: 20px;
+  background-color: #333;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.left-side h1 {
+  color: #00FF00; /* Verde fluorescente */
+}
+
+/* Estilo para el divisor */
+.divider {
+  margin: 0 10px;
+  height: 100%;
+  width: 1px;
+  background-color: #555;
+}
+
+/* Estilo para el lado derecho */
+.right-side {
+  flex: 0;
+  padding: 20px;
+  background-color: #333;
+  border-radius: 5px;
+  align-self: flex-start;
+}
+
+.right-side p {
+  color: #FFFF00; /* Amarillo */
+  margin: 0;
+}
+
+/* Estilo para el botón de cerrar sesión */
+button {
+  background-color: #333;
+  color: #FFFF00; /* Amarillo */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}

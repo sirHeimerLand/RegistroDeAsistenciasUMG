@@ -1,0 +1,37 @@
+<form (ngSubmit)="onSubmit()">
+  <h2>Crear Usuario</h2>
+  <div>
+    <label for="nombreUsuario">Nombre de Usuario</label>
+    <input type="text" id="nombreUsuario" [(ngModel)]="nombreUsuario" name="nombreUsuario" required>
+  </div>
+  <div>
+    <label for="contrasena">Contraseña</label>
+    <input [type]="showPassword ? 'text' : 'password'" id="contrasena" [(ngModel)]="contrasena" name="contrasena" required pattern="^(?=.*[A-Z])(?=.*\d)[A-Za-z\d]{8,}$">
+    <small>La contraseña debe tener al menos 8 caracteres, una mayúscula y un número.</small>
+  </div>
+  <div>
+    <label for="confirmarContrasena">Confirmar Contraseña</label>
+    <input [type]="showPassword ? 'text' : 'password'" id="confirmarContrasena" [(ngModel)]="confirmarContrasena" name="confirmarContrasena" required>
+  </div>
+  <div>
+    <label for="rol">Rol</label>
+    <select id="rol" [(ngModel)]="rol" name="rol" required>
+      <option value="estudiante">Estudiante</option>
+      <option value="docente">Docente</option>
+      <option value="coordinador">Coordinador</option>
+    </select>
+  </div>
+  <div>
+    <label for="numeroTelefono">Número de Teléfono</label>
+    <input type="text" id="numeroTelefono" [(ngModel)]="numeroTelefono" name="numeroTelefono" required>
+  </div>
+  <div class="show-password">
+    <input type="checkbox" id="showPassword" [(ngModel)]="showPassword" name="showPassword">
+    <label for="showPassword">Mostrar Contraseña</label>
+  </div>
+  <button type="submit">Crear Usuario</button>
+  <button type="button" (click)="regresarALogin()">Regresar a login</button>
+</form>
+<div *ngIf="mensaje">
+  {{ mensaje }}
+</div>

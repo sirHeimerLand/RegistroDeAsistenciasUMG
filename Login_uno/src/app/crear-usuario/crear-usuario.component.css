@@ -1,0 +1,100 @@
+/* Fondo negro para todo el componente */
+:host {
+  position: relative;
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  background-color: black;
+  padding: 20px;
+  min-height: 100vh;
+  color: white;
+}
+
+/* Estilo para el contenedor del formulario */
+form {
+  background-color: #222;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Estilo para el título */
+h2 {
+  text-align: center;
+  color: #00FF00; /* Verde fluorescente */
+  margin-bottom: 20px;
+}
+
+/* Estilo para los campos del formulario */
+form div {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #FFFF00; /* Amarillo */
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* Estilo para el botón de Crear Usuario */
+button[type="submit"] {
+  background-color: #00FF00; /* Verde fluorescente */
+}
+
+button[type="submit"]:hover {
+  background-color: #33FF33;
+}
+
+/* Estilo para el botón de Regresar a Login */
+button[type="button"] {
+  background-color: #007bff; /* Azul */
+  margin-top: 10px;
+}
+
+button[type="button"]:hover {
+  background-color: #0056b3;
+}
+
+/* Mensaje de error o información */
+div[ngIf] {
+  margin-top: 10px;
+  color: #FF0000;
+  text-align: center;
+}
+
+/* Estilo para mostrar contraseña */
+.show-password {
+  display: flex;
+  align-items: center;
+}
+
+.show-password label {
+  margin-left: 10px;
+}
